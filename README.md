@@ -1,1 +1,1 @@
-# oidc-client-demo
+# Demo openid connect client using flask-oidc

@@ -1,0 +1,14 @@
+Flask
+Jinja2
+MarkupSafe
+Werkzeug
+argparse
+click
+flask-oidc
+httplib2
+itsdangerous
+oauth2client
+pyasn1
+pyasn1-modules
+rsa
+six
