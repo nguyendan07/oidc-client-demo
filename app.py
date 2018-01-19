@@ -7,7 +7,7 @@ logging.basicConfig()
 
 config = {'OIDC_CLIENT_SECRETS': './client_secrets.json',
           'OIDC_ID_TOKEN_COOKIE_SECURE': False,
-          'OIDC_VALID_ISSUERS': 'http://localhost:8001/openid',
+          'OIDC_VALID_ISSUERS': 'http://localhost:8000/openid',
           'SECRET_KEY': 'web'}
 
 oidc_overrides = {}
