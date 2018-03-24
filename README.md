@@ -1,4 +1,4 @@
-# Demo openid connect client using flask-oidc
+# Demo single sign on client application using flask-oidc
 
 # Get it up and running
 
@@ -7,4 +7,4 @@ pip install -r requirements.txt
 ./app.py
 ```
 
-[OIDC Provider Demo](https://github.com/nguyendan07/oidc-provider-demo)
+[SSO Provider](https://github.com/nguyendan07/oidc-provider-demo)
